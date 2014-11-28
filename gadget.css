@@ -1,0 +1,26 @@
+body {
+  font-size: 14px;
+  font-family: Georgia, serif;
+  line-height: 22px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+iframe {
+  width: 724px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  color: transparent; /* fix IE11 dark border */
+}
+
+.gadget-embed-not-valid {
+  display: block;
+  text-align: center;
+  background: #f2f1ed;
+  padding: 20px;
+  font: 17px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  cursor: pointer;
+  color: #c7c3be;
+}

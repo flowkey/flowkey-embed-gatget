@@ -1,0 +1,16 @@
+{
+  "name": "educreations-embed-gadget",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Versal/educreations-embed-gadget",
+  "authors": [
+    "Versal Team"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "versal-player-api": "~0.3.3",
+    "versal-gadget-api": "~0.0.1",
+    "versal-component-runtime": "~0.2.4"
+  }
+}
