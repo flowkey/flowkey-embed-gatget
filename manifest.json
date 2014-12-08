@@ -1,12 +1,12 @@
 {
   "username": "versal",
   "name": "flowkey-embed-gadget",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "title": "flowkey",
   "description": "Embed songs from flowkey.com",
   "author": "flowkey",
   "launcher": "iframe",
   "defaultConfig": {
-    "embedCode": "//staging.flowkey.com/player/4EmWxxNgaBRBdXgA6"
+    "embedCode": "//app.flowkey.com/player/4EmWxxNgaBRBdXgA6"
   }
 }
