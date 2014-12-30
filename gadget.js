@@ -34,7 +34,7 @@
     player.setPropertySheetAttributes({
       embedCode: {
         type: 'TextArea',
-        title: 'Embed Code'
+        title: 'Embed code'
       }
     });
     player.startListening();
