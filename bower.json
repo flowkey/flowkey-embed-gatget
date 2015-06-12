@@ -10,7 +10,7 @@
   "dependencies": {
     "jquery": "~2.1.1",
     "versal-player-api": "~0.3.3",
-    "versal-gadget-api": "~0.0.1",
-    "versal-component-runtime": "~0.2.4"
+    "versal-gadget-api": "~0.0.14",
+    "webcomponentsjs": "~0.7.3"
   }
 }
